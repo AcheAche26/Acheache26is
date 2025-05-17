@@ -14056,3 +14056,4 @@
 [17May2025 02:26:24.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [17May2025 02:26:25.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [17May2025 02:26:25.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
+[17May2025 02:38:21.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1076, l='ServerLevel[world]', x=823.97, y=64.00, z=19.32] died, message: 'Villager was obliterated by Kick_Reyatgr'
