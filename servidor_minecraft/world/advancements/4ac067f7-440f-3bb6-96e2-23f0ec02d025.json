@@ -1742,5 +1742,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-17 04:06:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-05-17 04:06:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
