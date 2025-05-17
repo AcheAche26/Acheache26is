@@ -14057,3 +14057,11 @@
 [17May2025 02:26:25.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [17May2025 02:26:25.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
 [17May2025 02:38:21.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1076, l='ServerLevel[world]', x=823.97, y=64.00, z=19.32] died, message: 'Villager was obliterated by Kick_Reyatgr'
+[17May2025 03:26:33.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sfog[/127.168.202.157:49437] logged in with entity id 13008 at (743.182512290173, 120.0, -345.5300723728855)
+[17May2025 03:26:33.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog joined the game
+[17May2025 03:26:42.183] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sfog (18)
+[17May2025 03:26:42.183] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sfog
+[17May2025 03:27:50.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[17May2025 03:27:51.334] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[17May2025 03:27:51.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
+[17May2025 03:32:34.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to Kick_Reyatgr]

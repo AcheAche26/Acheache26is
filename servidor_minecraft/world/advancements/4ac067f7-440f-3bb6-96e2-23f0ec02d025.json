@@ -229,6 +229,7 @@
       "minecraft:stony_shore": "2025-05-05 03:29:48 +0000",
       "minecraft:snowy_plains": "2025-05-05 04:40:47 +0000",
       "minecraft:dripstone_caves": "2025-05-05 18:51:26 +0000",
+      "minecraft:snowy_taiga": "2025-05-17 03:25:44 +0000",
       "minecraft:grove": "2025-05-05 03:23:55 +0000",
       "minecraft:swamp": "2025-05-05 04:37:57 +0000",
       "minecraft:jagged_peaks": "2025-05-05 16:16:27 +0000",
@@ -1624,6 +1625,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-17 03:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-17 03:19:53 +0000"
     },
     "done": true
   },
