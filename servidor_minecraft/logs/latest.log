@@ -120,3 +120,7 @@
 [17May2025 20:58:33.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
 [17May2025 21:04:44.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/235, l='ServerLevel[world]', x=800.49, y=63.00, z=-13.63] died, message: 'Sfog used Librarian as paint'
 [17May2025 21:55:57.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
+[17May2025 22:39:35.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the weather to clear]
+[17May2025 22:45:23.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[17May2025 22:45:23.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[17May2025 22:45:23.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
