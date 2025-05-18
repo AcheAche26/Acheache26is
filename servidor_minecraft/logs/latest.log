@@ -143,3 +143,6 @@
 [18May2025 20:11:59.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
 [18May2025 20:14:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Kick_Reyatgr to Sfog]
 [18May2025 20:16:34.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
+[18May2025 20:33:48.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[18May2025 20:33:48.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[18May2025 20:33:48.352] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
