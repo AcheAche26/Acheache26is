@@ -125,3 +125,21 @@
 [18May2025 19:56:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog has made the advancement [Things are different now]
 [18May2025 19:56:24.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog has made the advancement [MineWarships]
 [18May2025 19:56:24.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog has made the advancement [Legendary]
+[18May2025 20:02:40.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
+[18May2025 20:07:09.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the weather to clear]
+[18May2025 20:07:33.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kick_Reyatgr lost connection: Disconnected
+[18May2025 20:07:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr left the game
+[18May2025 20:07:33.313] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kick_Reyatgr
+[18May2025 20:07:33.366] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 20:08:35.707] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@275c2005[id=<null>,name=Kick_Reyatgr,properties={},legacy=false] (/127.192.126.155:56433) lost connection: Disconnected
+[18May2025 20:09:12.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20ea1b69[id=<null>,name=Kick_Reyatgr,properties={},legacy=false] (/127.192.126.155:36571) lost connection: Disconnected
+[18May2025 20:09:55.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 859.500000, 70.500000, 102.500000]
+[18May2025 20:11:45.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kick_Reyatgr[/127.192.126.155:58271] logged in with entity id 9825 at (1195.2402414119763, 116.84521484375, -522.6319289989184)
+[18May2025 20:11:45.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr joined the game
+[18May2025 20:11:46.820] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kick_Reyatgr (18)
+[18May2025 20:11:46.821] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kick_Reyatgr
+[18May2025 20:11:58.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[18May2025 20:11:59.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[18May2025 20:11:59.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
+[18May2025 20:14:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Kick_Reyatgr to Sfog]
+[18May2025 20:16:34.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
