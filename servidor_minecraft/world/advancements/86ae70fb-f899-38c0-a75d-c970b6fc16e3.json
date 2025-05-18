@@ -1200,12 +1200,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-05-18 19:56:35 +0000"
-    },
-    "done": true
-  },
   "superbwarfare:main/cannon_blueprint": {
     "criteria": {
       "0": "2025-05-18 19:56:24 +0000"
@@ -1215,6 +1209,30 @@
   "superbwarfare:main/legendary_blueprint": {
     "criteria": {
       "0": "2025-05-18 19:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-18 19:56:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-05-18 22:27:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-05-18 22:27:10 +0000"
+    },
+    "done": true
+  },
+  "create:cardboard_armor": {
+    "criteria": {
+      "0": "2025-05-18 22:27:28 +0000"
     },
     "done": true
   },
