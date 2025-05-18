@@ -111,3 +111,17 @@
 [18May2025 19:30:29.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [18May2025 19:30:30.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [18May2025 19:30:30.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
+[18May2025 19:48:16.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sfog[/127.168.202.157:51087] logged in with entity id 2507 at (800.2568836622372, 63.0, -26.95980321143509)
+[18May2025 19:48:16.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog joined the game
+[18May2025 19:48:23.929] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sfog (18)
+[18May2025 19:48:23.930] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sfog
+[18May2025 19:49:08.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[18May2025 19:49:09.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[18May2025 19:49:09.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
+[18May2025 19:53:19.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 793.500000, 63.500000, -95.500000]
+[18May2025 19:53:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 762.500000, 120.500000, -342.500000]
+[18May2025 19:54:04.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 834.500000, 70.500000, 269.500000]
+[18May2025 19:54:28.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 749.500000, 67.500000, 295.500000]
+[18May2025 19:56:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog has made the advancement [Things are different now]
+[18May2025 19:56:24.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog has made the advancement [MineWarships]
+[18May2025 19:56:24.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog has made the advancement [Legendary]
