@@ -6669,3 +6669,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19May2025 01:21:30.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
 [19May2025 01:22:07.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19May2025 01:22:07.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 01:27:07.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 01:27:07.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 01:29:01.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kick_Reyatgr lost connection: Disconnected
+[19May2025 01:29:01.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr left the game
+[19May2025 01:29:01.939] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Kick_Reyatgr
+[19May2025 01:29:01.939] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kick_Reyatgr
+[19May2025 01:32:07.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 01:32:07.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 01:32:52.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[19May2025 01:32:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[19May2025 01:32:52.188] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sfog
+[19May2025 01:32:52.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog

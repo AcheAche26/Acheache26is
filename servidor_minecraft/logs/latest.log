@@ -26,3 +26,9 @@
 [19May2025 01:13:20.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> yo lo hago
 [19May2025 01:19:59.089] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Sfog/v22.nbt
 [19May2025 01:21:30.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
+[19May2025 01:29:01.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kick_Reyatgr lost connection: Disconnected
+[19May2025 01:29:01.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr left the game
+[19May2025 01:29:01.939] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kick_Reyatgr
+[19May2025 01:32:52.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[19May2025 01:32:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[19May2025 01:32:52.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
