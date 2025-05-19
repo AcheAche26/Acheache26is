@@ -6237,3 +6237,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18May2025 23:54:17.090] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 86ae70fb-f899-38c0-a75d-c970b6fc16e3 does not have a secret
 [18May2025 23:57:07.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18May2025 23:57:07.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 00:02:07.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 00:02:07.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 00:07:07.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 00:07:07.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
