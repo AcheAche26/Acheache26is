@@ -2389,6 +2389,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/building_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-05-19 17:48:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 16:56:25 +0000"
@@ -2524,6 +2530,12 @@
   "framedblocks:recipes/building_blocks/framed_slab_corner": {
     "criteria": {
       "hasFramedSlab": "2025-05-19 17:12:50 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-05-19 17:48:54 +0000"
     },
     "done": true
   },
@@ -2668,6 +2680,12 @@
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-19 17:04:21 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-05-19 17:48:54 +0000"
     },
     "done": true
   },
