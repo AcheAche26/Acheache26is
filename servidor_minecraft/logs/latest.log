@@ -41,3 +41,11 @@
 [19May2025 01:43:37.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [19May2025 01:43:38.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [19May2025 01:43:38.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
+[19May2025 03:12:14.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sfog[/127.168.202.157:57325] logged in with entity id 25734 at (793.4658048860074, 70.0, 225.6106866736294)
+[19May2025 03:12:14.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog joined the game
+[19May2025 03:12:19.794] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sfog (18)
+[19May2025 03:12:19.794] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sfog
+[19May2025 03:12:48.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[19May2025 03:12:49.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[19May2025 03:12:49.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
+[19May2025 03:13:48.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> DESDE CHIBOLO PARO CON GENTE DE AVANZE
