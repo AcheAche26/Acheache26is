@@ -1974,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 04:19:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-05-19 03:45:06 +0000"
@@ -2019,6 +2025,12 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-05-19 03:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 04:19:12 +0000"
     },
     "done": true
   },

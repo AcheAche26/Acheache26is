@@ -75,3 +75,12 @@
 [19May2025 04:06:54.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 877.500000, 70.500000, 240.500000]
 [19May2025 04:14:50.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
 [19May2025 04:14:56.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the weather to clear]
+[19May2025 04:16:01.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set own game mode to Survival Mode]
+[19May2025 04:17:30.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set own game mode to Creative Mode]
+[19May2025 04:19:17.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set own game mode to Survival Mode]
+[19May2025 04:19:21.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog was doomed to fall by Kick_Reyatgr
+[19May2025 04:19:46.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set own game mode to Creative Mode]
+[19May2025 04:19:56.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 874.500000, 70.500000, 222.500000]
+[19May2025 04:25:07.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[19May2025 04:25:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[19May2025 04:25:07.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
