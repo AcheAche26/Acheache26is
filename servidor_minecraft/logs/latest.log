@@ -86,3 +86,6 @@
 [19May2025 04:25:07.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
 [19May2025 05:32:21.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
 [19May2025 05:44:38.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
+[19May2025 06:55:01.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kick_Reyatgr lost connection: Disconnected
+[19May2025 06:55:01.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr left the game
+[19May2025 06:55:01.087] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kick_Reyatgr
