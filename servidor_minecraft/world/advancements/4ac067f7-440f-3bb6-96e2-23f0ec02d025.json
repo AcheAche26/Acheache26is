@@ -2877,5 +2877,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_stairs": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-05-19 17:07:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-05-19 17:07:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall": {
+    "criteria": {
+      "has_small_calcite_bricks": "2025-05-19 17:07:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

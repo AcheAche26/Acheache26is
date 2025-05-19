@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-05-19 17:00:08 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_template": "2025-05-19 16:49:08 +0000"
@@ -125,12 +119,6 @@
     },
     "done": true
   },
-  "superbwarfare:main/physics_excalibur": {
-    "criteria": {
-      "0": "2025-05-19 16:57:09 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2025-05-19 16:49:08 +0000"
@@ -176,12 +164,6 @@
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2025-05-19 16:49:08 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/super_container": {
-    "criteria": {
-      "0": "2025-05-19 16:56:23 +0000"
     },
     "done": true
   },
@@ -245,14 +227,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-05-19 16:54:47 +0000",
-      "minecraft:flower_forest": "2025-05-19 16:49:09 +0000",
-      "minecraft:plains": "2025-05-19 16:50:24 +0000"
-    },
-    "done": false
-  },
   "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
     "criteria": {
       "has_template": "2025-05-19 16:49:08 +0000"
@@ -262,6 +236,39 @@
   "superbwarfare:main/root": {
     "criteria": {
       "0": "2025-05-19 16:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-05-19 17:11:19 +0000",
+      "minecraft:river": "2025-05-19 16:54:47 +0000",
+      "minecraft:flower_forest": "2025-05-19 16:49:09 +0000",
+      "minecraft:plains": "2025-05-19 16:50:24 +0000"
+    },
+    "done": false
+  },
+  "superbwarfare:main/super_container": {
+    "criteria": {
+      "0": "2025-05-19 16:56:23 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/physics_excalibur": {
+    "criteria": {
+      "0": "2025-05-19 16:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-19 17:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-19 17:07:31 +0000"
     },
     "done": true
   },
