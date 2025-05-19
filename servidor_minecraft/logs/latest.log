@@ -101,3 +101,12 @@
 [19May2025 16:10:00.689] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'members-century.gl.at.ply.gg:2235'
 [19May2025 16:10:00.690] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2235
 [19May2025 16:10:00.689] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[19May2025 16:24:34.363] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f2f1147[id=<null>,name=Kick_Reyatgr,properties={},legacy=false] (/127.192.126.155:57473) lost connection: Disconnected
+[19May2025 16:25:23.410] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d97dbcf[id=<null>,name=Kick_Reyatgr,properties={},legacy=false] (/127.192.126.155:38551) lost connection: Disconnected
+[19May2025 16:28:22.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kick_Reyatgr[/127.192.126.155:49181] logged in with entity id 423 at (883.2808601935169, 70.0, 108.72747238595232)
+[19May2025 16:28:23.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr joined the game
+[19May2025 16:28:24.058] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kick_Reyatgr (18)
+[19May2025 16:28:24.059] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kick_Reyatgr
+[19May2025 16:28:37.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[19May2025 16:28:38.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[19May2025 16:28:38.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
