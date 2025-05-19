@@ -84,3 +84,5 @@
 [19May2025 04:25:07.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
 [19May2025 04:25:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
 [19May2025 04:25:07.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
+[19May2025 05:32:21.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
+[19May2025 05:44:38.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
