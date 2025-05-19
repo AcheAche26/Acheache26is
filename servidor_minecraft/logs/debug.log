@@ -6834,3 +6834,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19May2025 18:45:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> habla pe está bien?
 [19May2025 18:50:00.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19May2025 18:50:00.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 18:55:00.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 18:55:00.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 18:59:52.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
+[19May2025 19:00:00.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 19:00:00.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 19:00:20.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[19May2025 19:00:20.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[19May2025 19:00:20.162] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sfog
+[19May2025 19:00:20.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog

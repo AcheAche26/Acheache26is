@@ -204,3 +204,7 @@
 [19May2025 17:56:55.501] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 55 packets
 [19May2025 18:08:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 787.500000, 75.500000, 225.500000]
 [19May2025 18:45:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> habla pe está bien?
+[19May2025 18:59:52.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
+[19May2025 19:00:20.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[19May2025 19:00:20.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[19May2025 19:00:20.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
