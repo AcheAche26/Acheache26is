@@ -6899,3 +6899,54 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19May2025 01:43:20.433] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config constructionwand-server.toml' to 'fml:handshake' sequence 29
 [19May2025 01:43:20.483] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 30
 [19May2025 01:43:20.533] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 31
+[19May2025 01:43:20.583] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 32
+[19May2025 01:43:26.910] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[19May2025 01:43:26.910] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.910] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.911] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[19May2025 01:43:26.911] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.911] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[19May2025 01:43:26.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.914] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.915] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[19May2025 01:43:26.915] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19May2025 01:43:26.915] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19May2025 01:43:26.933] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[19May2025 01:43:26.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kick_Reyatgr[/127.192.126.155:43677] logged in with entity id 15005 at (745.0321918095005, 97.296812544204, 121.85341305077631)
+[19May2025 01:43:26.994] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@c028307 into net.minecraft.network.Connection@77804b1c
+[19May2025 01:43:27.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr joined the game
+[19May2025 01:43:27.032] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Kick_Reyatgr: {disabled=false, disconnected=true, uuid=4ac067f7-440f-3bb6-96e2-23f0ec02d025, name=Kick_Reyatgr, group=null}
+[19May2025 01:43:27.169] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kick_Reyatgr (18)
+[19May2025 01:43:27.170] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Kick_Reyatgr
+[19May2025 01:43:27.170] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Kick_Reyatgr
+[19May2025 01:43:27.170] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Kick_Reyatgr
+[19May2025 01:43:27.171] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kick_Reyatgr
+[19May2025 01:43:27.791] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747619007784
+[19May2025 01:43:37.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[19May2025 01:43:38.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[19May2025 01:43:38.521] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Kick_Reyatgr to connected: {disabled=false, disconnected=false, uuid=4ac067f7-440f-3bb6-96e2-23f0ec02d025, name=Kick_Reyatgr, group=null}
+[19May2025 01:43:38.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
+[19May2025 01:43:38.637] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kick_Reyatgr: {disabled=true, disconnected=false, uuid=4ac067f7-440f-3bb6-96e2-23f0ec02d025, name=Kick_Reyatgr, group=null}
+[19May2025 01:47:07.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 01:47:07.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 01:52:07.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 01:52:07.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
