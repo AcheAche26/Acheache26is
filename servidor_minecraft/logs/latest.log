@@ -200,3 +200,5 @@
 [19May2025 17:38:08.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> oe configurate el chat de voz
 [19May2025 17:38:58.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> no te escucho
 [19May2025 17:44:49.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
+[19May2025 17:56:55.500] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[19May2025 17:56:55.501] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 55 packets
