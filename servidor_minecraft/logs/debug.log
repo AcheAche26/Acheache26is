@@ -6774,3 +6774,30 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19May2025 17:15:44.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capy_1> ya volvi
 [19May2025 17:16:35.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capy_1> hay estamina ag
 [19May2025 17:19:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the weather to clear]
+[19May2025 17:20:00.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 17:20:00.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 17:20:08.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capy_1> que hago
+[19May2025 17:20:41.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capy_1> con que ayudo
+[19May2025 17:25:00.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 17:25:00.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 17:25:03.356] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kick_Reyatgr: {disabled=true, disconnected=false, uuid=4ac067f7-440f-3bb6-96e2-23f0ec02d025, name=Kick_Reyatgr, group=null}
+[19May2025 17:25:32.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> ahora sí
+[19May2025 17:30:00.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 17:30:00.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 17:31:10.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
+[19May2025 17:31:21.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kick_Reyatgr> piero ponte el a10
+[19May2025 17:31:31.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kick_Reyatgr> y te bajo con el javelin
+[19May2025 17:35:00.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 17:35:00.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 17:36:22.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kick_Reyatgr> agan el puente ya
+[19May2025 17:37:05.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capy_1> ya me voy
+[19May2025 17:37:07.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capy_1> bay bay
+[19May2025 17:37:14.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: capy_1 lost connection: Disconnected
+[19May2025 17:37:14.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capy_1 left the game
+[19May2025 17:37:14.112] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of capy_1
+[19May2025 17:37:14.112] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client capy_1
+[19May2025 17:38:08.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> oe configurate el chat de voz
+[19May2025 17:38:19.939] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kick_Reyatgr: {disabled=false, disconnected=false, uuid=4ac067f7-440f-3bb6-96e2-23f0ec02d025, name=Kick_Reyatgr, group=null}
+[19May2025 17:38:58.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> no te escucho
+[19May2025 17:40:00.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 17:40:00.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
