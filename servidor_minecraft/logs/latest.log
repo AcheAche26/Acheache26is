@@ -32,3 +32,5 @@
 [19May2025 01:32:52.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
 [19May2025 01:32:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
 [19May2025 01:32:52.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
+[19May2025 01:42:25.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a4876f0[id=<null>,name=Kick_Reyatgr,properties={},legacy=false] (/127.192.126.155:52375) lost connection: Disconnected
+[19May2025 01:42:58.283] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@553613ef[id=<null>,name=Kick_Reyatgr,properties={},legacy=false] (/127.192.126.155:49415) lost connection: Disconnected
