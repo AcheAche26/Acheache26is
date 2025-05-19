@@ -2211,15 +2211,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_recycling": {
     "criteria": {
-      "has_glass": "2025-05-19 06:16:21 +0000"
+      "has_cut_dripstone_brick_slab": "2025-05-19 05:09:04 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+  "create:recipes/building_blocks/cut_granite_brick_slab_recycling": {
     "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+      "has_cut_granite_brick_slab": "2025-05-19 05:09:23 +0000"
     },
     "done": true
   },
@@ -2229,15 +2229,315 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "has_glass": "2025-05-19 06:16:21 +0000"
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall": {
+    "criteria": {
+      "has_cut_granite_bricks": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-19 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-05-19 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-05-19 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-05-19 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-05-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs": {
+    "criteria": {
+      "has_cut_calcite": "2025-05-19 06:09:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall": {
+    "criteria": {
+      "has_cut_calcite": "2025-05-19 06:09:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab": {
+    "criteria": {
+      "has_cut_calcite": "2025-05-19 06:09:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-19 06:16:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-19 06:16:21 +0000"
     },
     "done": true
   },
@@ -2250,18 +2550,6 @@
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_slab": {
-    "criteria": {
-      "has_polished_cut_calcite": "2025-05-19 06:09:01 +0000"
     },
     "done": true
   },
@@ -2283,27 +2571,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/smelting/glass_from_framed_glass": {
     "criteria": {
       "has_item": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-05-19 05:49:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
     },
     "done": true
   },
@@ -2319,51 +2589,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-05-19 05:49:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_slab": {
-    "criteria": {
-      "has_cut_granite_bricks": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
     },
     "done": true
   },
@@ -2379,33 +2613,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_stairs": {
-    "criteria": {
-      "has_cut_calcite": "2025-05-19 06:09:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_slab_recycling": {
-    "criteria": {
-      "has_cut_granite_brick_slab": "2025-05-19 05:09:23 +0000"
     },
     "done": true
   },
@@ -2439,12 +2649,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
@@ -2454,36 +2658,6 @@
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_slab_recycling": {
-    "criteria": {
-      "has_cut_dripstone_brick_slab": "2025-05-19 05:09:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
     },
     "done": true
   },
@@ -2511,27 +2685,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_granite_brick_stairs": {
-    "criteria": {
-      "has_cut_granite_bricks": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_wall": {
-    "criteria": {
-      "has_cut_granite_bricks": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_wall": {
-    "criteria": {
-      "has_cut_calcite": "2025-05-19 06:09:25 +0000"
     },
     "done": true
   },
@@ -2556,12 +2712,6 @@
   "create:recipes/building_blocks/framed_glass_pane": {
     "criteria": {
       "has_ingredient": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
     },
     "done": true
   },
@@ -2601,45 +2751,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-05-19 05:49:10 +0000"
     },
     "done": true
   },
@@ -2655,18 +2769,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
@@ -2676,30 +2778,6 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_slab": {
-    "criteria": {
-      "has_cut_calcite": "2025-05-19 06:09:25 +0000"
     },
     "done": true
   },
@@ -2721,12 +2799,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_wall": {
-    "criteria": {
-      "has_polished_cut_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
@@ -2736,12 +2808,6 @@
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
     },
     "done": true
   },
@@ -2757,69 +2823,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-05-19 05:13:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 06:09:01 +0000"
     },
     "done": true
   },
@@ -2850,12 +2856,6 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 06:16:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs": {
-    "criteria": {
-      "has_polished_cut_calcite": "2025-05-19 06:09:01 +0000"
     },
     "done": true
   },
