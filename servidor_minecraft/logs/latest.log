@@ -203,3 +203,4 @@
 [19May2025 17:56:55.500] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
 [19May2025 17:56:55.501] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 55 packets
 [19May2025 18:08:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to 787.500000, 75.500000, 225.500000]
+[19May2025 18:45:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> habla pe está bien?
